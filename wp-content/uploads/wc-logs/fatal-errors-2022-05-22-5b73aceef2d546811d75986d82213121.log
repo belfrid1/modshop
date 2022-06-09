@@ -1,0 +1,7 @@
+2022-05-22T18:07:20+00:00 CRITICAL Uncaught Error: Undefined constant "FS_CHMOD_FILE" in /var/www/html/thefirst/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer-log.php:256
+Stack trace:
+#0 /var/www/html/thefirst/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-error-handler.php(106): Astra_Sites_Importer_Log::add()
+#1 [internal function]: Astra_Sites_Error_Handler->exception_handler()
+#2 {main}
+  thrown dans /var/www/html/thefirst/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer-log.php à la ligne 256
+
